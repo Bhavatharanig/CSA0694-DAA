@@ -29,3 +29,13 @@ int main()
 }
 
 OUTPUT:
+Enter number of elements in array
+4
+Enter 4 integer(s)
+12
+13
+21
+32
+Enter a number to search
+21
+21 is present at location 3.
